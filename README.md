@@ -31,7 +31,8 @@ Modifier une machine: Permet de mettre à jour les informations d'une machine ex
 ![salle est modifier](https://github.com/simo-laaouibi/TpRMI/assets/148088062/01b492be-b660-42e7-95de-da8755aab99d)
 ![cliquent pour modifier ](https://github.com/simo-laaouibi/TpRMI/assets/148088062/e227f18d-d36f-439d-bf4d-378d7ebb486c)
 # salle supprimer :
-![image](https://github.com/simo-laaouibi/TpRMI/assets/148088062/e8988067-1553-4552-ba00-940ef67070aa)
+![image](https://github.com/simo-laaouibi/TpRMI/assets/148088062/650f1f88-7e47-481a-bfe3-8db0745c9ba0)
+
 
 
 # Page de gestion machine :
