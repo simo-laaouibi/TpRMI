@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/server/Server.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/entities/Machine.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/test/Test.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/entities/Salle.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/services/SalleService.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/services/MachineService.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/server/ConnexionJNDI.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/dao/IDao.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/java-EE/tpRMI-main/ServeurRMI2/src/config/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
