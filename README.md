@@ -65,6 +65,11 @@ lorsque qu'on choisi une salle puis en clique sur le boutton recherche il nous d
 - Effectuez des recherches pour trouver les machines disponibles dans chaque s
 
 
+# conclusion :
+
+Ce projet de gestion des salles et des machines, qui repose sur Hibernate, RMI et Java Swing, facilite grandement la réservation des ressources. Grâce à son interface conviviale, à la persistance des données assurée par Hibernate, et à la communication fluide rendue possible par RMI, il constitue une solution inestimable pour améliorer l'efficacité des opérations.
+
+
 
 
 
