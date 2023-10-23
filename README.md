@@ -23,6 +23,13 @@ RMI
 # Page de gestion machine :
 ![G Machine](https://github.com/simo-laaouibi/TpRMI/assets/148088062/2766047a-036c-4b29-8905-36845c49ad1f)
 
+# Machine ajouter :
+![image](https://github.com/simo-laaouibi/TpRMI/assets/148088062/01476a73-cddd-45cb-bc51-68c13c3be689)
+
+
+
+
+
 
 
 
